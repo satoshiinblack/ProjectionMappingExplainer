@@ -1,0 +1,5 @@
+{
+  "name": "把光影變成魔法",
+  "description": "An interactive educational visualization explaining the principles of 3D Projection Mapping using React and SVG.",
+  "requestFramePermissions": []
+}
